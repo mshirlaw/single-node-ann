@@ -1,6 +1,5 @@
 #! /usr/bin/python
 # A simple Artificial Neural Network with 6 inputs and a single node in the hidden input layer
-# This 
 
 from numpy import exp
 from numpy import array
